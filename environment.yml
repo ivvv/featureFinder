@@ -1,0 +1,17 @@
+name: featureFinder
+channels:
+  - astropy
+dependencies:
+  - python=3.7
+  - pip
+  - notebook
+  - nbconvert
+  - numpy
+  - astropy>=3.2
+  - matplotlib>=3.0
+  - scipy>=1.0
+  - spectral-cube
+  - lmfit
+  - urllib3
+  - requests
+  - pyyaml
